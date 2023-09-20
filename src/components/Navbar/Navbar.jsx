@@ -20,7 +20,7 @@ const Navbar = () => {
                                     <NavLink to={'/'} onClick={() => { document.getElementById('menu2').classList.toggle('hidden') }}>Home</NavLink>
                                 </li>
                                 <li>
-                                    <NavLink to={'/toys'} onClick={() => { document.getElementById('menu2').classList.toggle('hidden') }}>All Toys</NavLink>
+                                    <NavLink to={'/all-toys'} onClick={() => { document.getElementById('menu2').classList.toggle('hidden') }}>All Toys</NavLink>
                                 </li>
                                 <li>
                                     <NavLink to={'/my-toys'} onClick={() => { document.getElementById('menu2').classList.toggle('hidden') }}>My Toys</NavLink>

@@ -115,7 +115,7 @@ function Main() {
       <div className="hero" data-aos="zoom-in" data-aos-easing="ease-in-back"
         data-aos-delay="100">
         <div className="hero-content w-[90%]  flex-col lg:flex-row text-white">
-          <div className="text-black text-center other bg-[url('/blobanimation.svg')] bg-no-repeat bg-center bg-contain max-[700px]:py-[8em] max-[480px]:py-[3em] py-[15em]">
+          <div className="text-black text-center other  bg-no-repeat bg-center bg-contain max-[700px]:py-[8em] max-[480px]:py-[3em] py-[15em]">
             <h1 className="text-5xl max-[730px]:text-4xl max-[650px]:text-3xl font-bold">We have all kind<br /> of action figure!</h1>
             <div className='py-3'>
               <h1 className='font-semibold'>We deliver best of fantastic,hand-piched,age appriciate toys</h1>
@@ -132,7 +132,7 @@ function Main() {
         <div className="hero-content w-[90%]  flex-col lg:flex-row text-white">
 
           <img src="https://i.ibb.co/h89G8Fj/thor-clipart-2018-15.png" className=' max-w-sm hover:scale-[120%] transition duration-500 ease-in-out' />
-          <div className="text-black text-center other bg-[url('/blobanimation.svg')] bg-no-repeat bg-center bg-contain max-[700px]:py-[8em] max-[480px]:py-[3em] py-[15em]">
+          <div className="text-black text-center other bg-no-repeat bg-center bg-contain max-[700px]:py-[8em] max-[480px]:py-[3em] py-[15em]">
             <h1 className="text-5xl max-[730px]:text-4xl max-[650px]:text-3xl font-bold">Get your dream Action figure today</h1>
             <div className='py-3'>
               <h1 className='font-semibold'>We offer the finest selection of incredible toys that have been carefully chosen, ensuring they are perfect for each age group.</h1>
@@ -204,7 +204,7 @@ function Main() {
         <div className="hero-content w-[90%]  flex-col lg:flex-row text-white gap-10">
 
           <img src="https://memberful.com/images/newsletters/newsletters-banner-9dcd3a3c.jpg" className='max-w-sm hover:scale-[120%] transition duration-500 ease-in-out' />
-          <div className="text-black text-center other bg-[url('/blobanimation.svg')] bg-no-repeat bg-center bg-contain max-[700px]:py-[8em] max-[480px]:py-[3em] py-[15em]">
+          <div className="text-black text-center other bg-no-repeat bg-center bg-contain max-[700px]:py-[8em] max-[480px]:py-[3em] py-[15em]">
             <h1 className="text-5xl max-[730px]:text-4xl max-[650px]:text-3xl font-bold">Subscribe Newsletter</h1>
             <div className='py-3'>
               <h1 className='font-semibold'>

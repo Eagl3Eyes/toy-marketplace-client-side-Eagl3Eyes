@@ -46,6 +46,7 @@ export default function Toys() {
     useEffect(() => {
         fetch('https://toy-marketplace-server-psi.vercel.app/').then(data => data.json()).then(data => setToys(data))
     }, [])
+    
     return (
         <div className="mt-6">
             <div className="min-h-[90vh]">
